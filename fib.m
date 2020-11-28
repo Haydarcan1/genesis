@@ -8,5 +8,7 @@ disp('nabo')
 =======
 disp('haydo')
 
+disp('ano nabo')
 
->>>>>>> refs/remotes/origin/main
+
+
