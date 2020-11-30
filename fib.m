@@ -12,4 +12,4 @@ disp('ano nabo')
 
 
 disp('babo nabo')
-disp('nabim')
+disp('nabi')
